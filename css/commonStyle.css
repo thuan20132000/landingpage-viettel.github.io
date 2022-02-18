@@ -69,7 +69,13 @@
 
 .price{
     text-align: center;
+    margin: 12px auto;
+    font-size: 18px;
+    font-weight: 700;
 }
 .netTitle{
     text-align: center;
+}
+.h3{
+    text-transform: uppercase;
 }
